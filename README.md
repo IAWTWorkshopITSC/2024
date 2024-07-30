@@ -1,110 +1,56 @@
 # 3rd Workshop on Intelligent and Automated Waterway Transportation
 
-## Usage
+## Aim of the workshop
 
-To use the Cayman theme:
+The workshop aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
 
-1. Add the following to your site's `_config.yml`:
+## Outline
 
-    ```yml
-    remote_theme: pages-themes/cayman@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+The objective of workshop is the presentation and discussion of the latest advances in waterborne intelligent and automated systems. The workshop is an important platform within the ITS community, focusing on key issues in the development of autonomous vessels, such as advanced assistance systems, modelling and simulation, digital test field waterway, navigation, control concepts and automation of cargo handling. By focusing on these areas, the workshop aims to drive innovation, improve efficiency and enhance safety in waterborne transport, thus making a significant impact in the field of ITS. Renowned experts in the field will present their latest research and devel-opments during the event, providing participants with valuable insights and updates on the latest breakthroughs.
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+## Format and schedule
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+The workshop will be opened by an introductory talk of 10-15 minutes by Dr. Lahbib Zentari (BAW), followed by talks of 20-30 minutes given by invited experts. The workshop will conclude with a panel discussion of 30-45 minutes, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
 
-## Customizing
+A detailed schedule of the workshop will be published shortly. 
 
-### Configuration variables
+## Invited speakers
 
-Cayman will respect the following variables, if set in your site's `_config.yml`:
+1.	[Nicola Forti](https://nicolaforti.com/)
+Nicola holds a Ph.D. in Information Engineering and is currently an Assistant Professor at the University of Florence, Italy. His research interests span control theory, state estima-tion, sensor networks, data fusion, statistical signal processing, artificial intelligence, and data-driven modelling, with a focus on applications in cyber-physical systems, large-scale systems, and autonomous technologies. He has held prestigious research positions such as Visiting Scholar at Carnegie Mellon University and Researcher at the NATO Science & Technology Organisation - Centre for Maritime Research and Exper-imentation. His research addresses critical aspects of maritime surveillance and au-tonomous shipping, including maritime situational awareness, anomaly detection and navigation. His publication record reflects his commitment to using cutting-edge technologies to enhance maritime safety, security and sustainability. 
+Planned topic of talk: TBC
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+2. Lars Grundhöfer
+Lars is currently working as a researcher for the German Aerospace Center, Institute of Communications and Navigation. He received his master’s degree in electrical engi-neering from the Hamburg University of Technology, Germany. His research primarily focuses on the development and enhancement of terrestrial navigation systems, par-ticularly the medium-frequency R-Mode system, which serves as a backup to Global Navigation Satellite Systems (GNSS). His work addresses the accuracy and reliability of position, navigation, and timing information in maritime contexts, especially when GNSS is unavailable or unreliable. He also explores the integration of terrestrial naviga-tion with other systems, like low-cost software-defined radios and hybrid GNSS-terrestrial localization methods, aiming to enhance overall maritime navigation safety and reliability.
+Planned topic of talk: The Medium Frequency R-Mode Test Bed in Canada
 
-Additionally, you may choose to set the following optional variables:
+3. Paul Koch
+Paul is a researcher at the Fraunhofer Center for Maritime Logistics and Services (CML), Germany.  His research primarily focuses on enhancing situational awareness and collision avoidance for maritime autonomous surface ships through systems com-pliant with the Convention on the International Regulations for Preventing Collisions at Sea (COLREGs). He also contributes to developing standards for evaluating and certi-fying AI-based decision-making systems for autonomous vessels. Through these areas of research, Paul significantly contributes to advancing the capabilities and safety of autonomous maritime systems and the broader adoption of AI technologies in the maritime industry.
+Planned topic of talk: TBC
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+4.	[Hanna Krasowski](https://hanna.krasowski.io/)
+Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Systems Group at the Technical University of Munich, Germany. Starting in June, she will join the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, as a postdoctoral researcher. Her work combines the flexibility of reinforcement learning with the reliable guarantees of formal methods. In her re-search, she also addresses the challenges of compliance with marine traffic rules and the integration of safety measures in autonomous shipping technologies. Hanna con-ducts experiments on various motion planning scenarios, including those involving marine vessels. She is the principal developer of the CommonOcean Benchmarking Software, which provides researchers with tools for evaluating and comparing their maritime motion planners. Despite being early in her career, she has supervised sever-al theses and authored multiple publications on topics such as safe reinforcement learning, motion planning, and formal methods for autonomous vessels. 
 
-### Stylesheet
+5. Tim Reuscher
+Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His re-search in the field of shipping focuses on developing advanced control methodolo-gies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the au-tomation of inland vessels and ferries. These projects address issues such as robust nav-igation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in mari-time transport. 
+Planned topic of talk: TBC
 
-If you'd like to add your own custom styles:
+6.	Lahbib Zentari (keynote)
+Lahbib is currently a researcher in the Shipping Department of BAW. He holds a mas-ter's degree in Naval Architecture and Ocean Engineering from the Bremen University of Applied Sciences in Germany and a Ph.D. in Computational Fluid Dynamics from the UDE. His main areas of research are experimental and computational fluid dynam-ics applied to manoeuvring problems in extremely confined waters. In this context, he is responsible for the development of manoeuvring simulation tools, which are widely used in nautical studies at BAW. Furthermore, his research has found new applications in the development of simulation environments for autonomous vessels. He has pub-lished several papers in the field of extreme shallow water manoeuvring.
+Planned topic of talk: AI application for a virtual test environment on an inland ship handling simulator
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+## Expected participation
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the the target audience of this workshop. If you do not belong to this target audience, but are interested in the workshop's subject, do not hesitate to join us!
 
-### Layouts
+## Organizers
 
-If you'd like to change the theme's HTML layout:
+1.	Jannis Daubner, Federal Waterways and Engineering Institute, Germany
+2.	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)*, University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
+3.	Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
+4.	Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
+5.	Lahbib Zentari, Federal Waterways and Engineering Institute 
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/cayman/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
+*contact person
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
