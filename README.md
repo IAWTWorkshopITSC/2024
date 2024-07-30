@@ -44,10 +44,10 @@ Members of industry, research, consultancy and public authorities in the field o
 
 # Organizers
 
-1. Jannis Daubner, Federal Waterways and Engineering Institute, Germany
-2. 	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
-3. 	 Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
-4. 	 Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
-5. 	 Lahbib Zentari, Federal Waterways and Engineering Institute 
+* Jannis Daubner, Federal Waterways and Engineering Institute, Germany
+*	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
+* Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
+* Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
+* Lahbib Zentari, Federal Waterways and Engineering Institute 
 
 [^1]: contact person
