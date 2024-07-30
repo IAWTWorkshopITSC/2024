@@ -1,6 +1,6 @@
 # Aim of the workshop
 
-The workshop aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
+The **3rd Workshop on Intelligent and Automated Waterway Transportation** aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
 
 # Outline
 
