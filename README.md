@@ -27,23 +27,29 @@ Lars is currently working as a researcher for the German Aerospace Center, Insti
 _Title of talk: The Medium Frequency R-Mode Test Bed in Canada_
 
 ### Paul Koch
+
 Paul is a researcher at the Fraunhofer Center for Maritime Logistics and Services (CML), Germany.  His research primarily focuses on enhancing situational awareness and collision avoidance for maritime autonomous surface ships through systems compliant with the Convention on the International Regulations for Preventing Collisions at Sea (COLREGs). He also contributes to developing standards for evaluating and certifying AI-based decision-making systems for autonomous vessels. Through these areas of research, Paul significantly contributes to advancing the capabilities and safety of autonomous maritime systems and the broader adoption of AI technologies in the maritime industry.
 
 _Title of talk: TBC_
 
 ### [Hanna Krasowski](https://hanna.krasowski.io/)
+
 <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Hanna_Krasowski2024_small_cut.jpg" alt="Krasowski" float="left" width="140"/> 
+
 Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Systems Group at the Technical University of Munich, Germany. Starting in June, she will join the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, as a postdoctoral researcher. Her work combines the flexibility of reinforcement learning with the reliable guarantees of formal methods. In her research, she also addresses the challenges of compliance with marine traffic rules and the integration of safety measures in autonomous shipping technologies. Hanna conducts experiments on various motion planning scenarios, including those involving marine vessels. She is the principal developer of the CommonOcean Benchmarking Software, which provides researchers with tools for evaluating and comparing their maritime motion planners. Despite being early in her career, she has supervised several theses and authored multiple publications on topics such as safe reinforcement learning, motion planning, and formal methods for autonomous vessels. 
 
 _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea_
 
 ### [Tim Reuscher](https://www.irt.rwth-aachen.de/cms/irt/das-institut/team/mobilitaet-und-navigation/abteilungsleiter/~rxbo/tim-reuscher/?allou=1)
+
 Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His research in the field of shipping focuses on developing advanced control methodologies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the automation of inland vessels and ferries. These projects address issues such as robust navigation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in maritime transport. 
 
 _Title of talk: TBC_
 
 ### Lahbib Zentari (keynote)
+
 <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/zentari_lahbib.jpg" alt="Zentari" float="left" width="140"/> 
+
 Lahbib is currently a researcher in the Shipping Department of BAW. He holds a master's degree in Naval Architecture and Ocean Engineering from the Bremen University of Applied Sciences in Germany and a Ph.D. in Computational Fluid Dynamics from the UDE. His main areas of research are experimental and computational fluid dynamics applied to manoeuvring problems in extremely confined waters. In this context, he is responsible for the development of manoeuvring simulation tools, which are widely used in nautical studies at BAW. Furthermore, his research has found new applications in the development of simulation environments for autonomous vessels. He has published several papers in the field of extreme shallow water manoeuvring.
 
 _Title of talk: AI application for a virtual test environment on an inland ship handling simulator_
