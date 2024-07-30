@@ -36,7 +36,7 @@ Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Syste
 
 _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea_
 
-### Tim Reuscher
+### [Tim Reuscher](https://www.irt.rwth-aachen.de/cms/irt/das-institut/team/mobilitaet-und-navigation/abteilungsleiter/~rxbo/tim-reuscher/?allou=1)
 Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His re-search in the field of shipping focuses on developing advanced control methodolo-gies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the au-tomation of inland vessels and ferries. These projects address issues such as robust nav-igation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in mari-time transport. 
 
 _Title of talk: TBC_
@@ -57,7 +57,7 @@ Members of industry, research, consultancy and public authorities in the field o
 *	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
 * Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
 * Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
-* Lahbib Zentari, Federal Waterways and Engineering Institute 
+* Lahbib Zentari, Federal Waterways and Engineering Institute, Germany
 
 ## Acknowledgement
 
