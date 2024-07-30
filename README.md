@@ -2,7 +2,7 @@
 
 ## Aim of the workshop
 
-The **3rd Workshop on Intelligent and Automated Waterway Transportation** aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
+The **3rd Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 24th, 2024 at the [27th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2024/) in Edmonton, Canada, aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
 
 ## Outline
 
@@ -49,7 +49,8 @@ _Title of talk: AI application for a virtual test environment on an inland ship 
 
 ## Expected participation
 
-Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the the target audience of this workshop. If you do not belong to this target audience, but are interested in the workshop's subject, do not hesitate to join us!
+Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the the target audience of this workshop. If you do not belong to this target audience, but are interested in the workshop's subject, do not hesitate to join us! 
+Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the ITSC Workshop Day in order to be able to join. 
 
 ## Organizers
 
