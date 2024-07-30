@@ -32,7 +32,7 @@ Paul is a researcher at the Fraunhofer Center for Maritime Logistics and Service
 _Title of talk: TBC_
 
 ### [Hanna Krasowski](https://hanna.krasowski.io/)
-<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/krasowski_hanna.jpg" alt="Krasowski" float="left" width="140"/> 
+<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Hanna_Krasowski2024_small.jpg" alt="Krasowski" float="left" width="140"/> 
 Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Systems Group at the Technical University of Munich, Germany. Starting in June, she will join the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, as a postdoctoral researcher. Her work combines the flexibility of reinforcement learning with the reliable guarantees of formal methods. In her research, she also addresses the challenges of compliance with marine traffic rules and the integration of safety measures in autonomous shipping technologies. Hanna conducts experiments on various motion planning scenarios, including those involving marine vessels. She is the principal developer of the CommonOcean Benchmarking Software, which provides researchers with tools for evaluating and comparing their maritime motion planners. Despite being early in her career, she has supervised several theses and authored multiple publications on topics such as safe reinforcement learning, motion planning, and formal methods for autonomous vessels. 
 
 _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea_
