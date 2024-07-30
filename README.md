@@ -1,18 +1,20 @@
-# Aim of the workshop
+# 3rd Workshop on Intelligent and Automated Waterway Transportation 
+
+## Aim of the workshop
 
 The **3rd Workshop on Intelligent and Automated Waterway Transportation** aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transporta-tion, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent re-search achievement and innovative projects in these fields. 	
 
-# Outline
+## Outline
 
 The objective of workshop is the presentation and discussion of the latest advances in waterborne intelligent and automated systems. The workshop is an important platform within the ITS community, focusing on key issues in the development of autonomous vessels, such as advanced assistance systems, modelling and simulation, digital test field waterway, navigation, control concepts and automation of cargo handling. By focusing on these areas, the workshop aims to drive innovation, improve efficiency and enhance safety in waterborne transport, thus making a significant impact in the field of ITS. Renowned experts in the field will present their latest research and devel-opments during the event, providing participants with valuable insights and updates on the latest breakthroughs.
 
-# Format and schedule
+## Format and schedule
 
 The workshop will be opened by an introductory talk of 10-15 minutes by Dr. Lahbib Zentari (BAW), followed by talks of 20-30 minutes given by invited experts. The workshop will conclude with a panel discussion of 30-45 minutes, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
 
 A detailed schedule of the workshop will be published shortly. 
 
-# Invited speakers
+## Invited speakers
 
 ### [Nicola Forti](https://nicolaforti.com/)
 Nicola holds a Ph.D. in Information Engineering and is currently an Assistant Professor at the University of Florence, Italy. His research interests span control theory, state estima-tion, sensor networks, data fusion, statistical signal processing, artificial intelligence, and data-driven modelling, with a focus on applications in cyber-physical systems, large-scale systems, and autonomous technologies. He has held prestigious research positions such as Visiting Scholar at Carnegie Mellon University and Researcher at the NATO Science & Technology Organisation - Centre for Maritime Research and Exper-imentation. His research addresses critical aspects of maritime surveillance and au-tonomous shipping, including maritime situational awareness, anomaly detection and navigation. His publication record reflects his commitment to using cutting-edge technologies to enhance maritime safety, security and sustainability. 
@@ -38,16 +40,17 @@ Lahbib is currently a researcher in the Shipping Department of BAW. He holds a m
 Planned topic of talk: AI application for a virtual test environment on an inland ship handling simulator
 
 
-# Expected participation
+## Expected participation
 
 Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the the target audience of this workshop. If you do not belong to this target audience, but are interested in the workshop's subject, do not hesitate to join us!
 
-# Organizers
+## Organizers
 
 * Jannis Daubner, Federal Waterways and Engineering Institute, Germany
 *	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
 * Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
 * Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
 * Lahbib Zentari, Federal Waterways and Engineering Institute 
+
 
 [^1]: contact person
