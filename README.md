@@ -17,6 +17,9 @@ A detailed schedule of the workshop will be published shortly.
 ## Invited speakers
 
 ### [Nicola Forti](https://nicolaforti.com/)
+
+<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Nicola_Forti_photo_site5_v2_squared_827.jpg" alt="Forti" float="left" width="140"/> 
+
 Nicola holds a Ph.D. in Information Engineering and is currently an Assistant Professor at the University of Florence, Italy. His research interests span control theory, state estimation, sensor networks, data fusion, statistical signal processing, artificial intelligence, and data-driven modelling, with a focus on applications in cyber-physical systems, large-scale systems, and autonomous technologies. He has held prestigious research positions such as Visiting Scholar at Carnegie Mellon University and Researcher at the NATO Science & Technology Organisation - Centre for Maritime Research and Experimentation. His research addresses critical aspects of maritime surveillance and autonomous shipping, including maritime situational awareness, anomaly detection and navigation. His publication record reflects his commitment to using cutting-edge technologies to enhance maritime safety, security and sustainability. 
 
 _Title of talk: TBC_
