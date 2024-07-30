@@ -55,8 +55,8 @@ Members of industry, research, consultancy and public authorities in the field o
 
 * Jannis Daubner, Federal Waterways and Engineering Institute, Germany
 *	[Kathrin Donandt](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
-* Frédéric Etienne Kracht, Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
-* Philipp Sieberg, Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
+* [Frédéric Etienne Kracht](https://www.uni-due.de/mechatronik/team/kracht.php), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
+* [Philipp Sieberg](https://www.uni-due.de/mechatronik/team/sieberg.php), Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
 * Lahbib Zentari, Federal Waterways and Engineering Institute, Germany
 
 ## Acknowledgement
