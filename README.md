@@ -72,10 +72,10 @@ Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the 
 <br />
 <br />
 <p float="left">
-  <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" float="left" height="75"/> 
-  <img src="BAW_blue.png" alt="BAW" float="left" height="75"/> 
-  <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" float="left" height="75"/> 
-  <img src="schotte-automotive-logo-red.svg" alt="SCHOTTE" float="left" height="75"/> 
+  <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" float="left" height="74"/> 
+  <img src="BAW_blue.png" alt="BAW" float="left" height="74"/> 
+  <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" float="left" height="74"/> 
+  <img src="schotte-automotive-logo-red.svg" alt="SCHOTTE" float="left" height="74"/> 
 </p>
 
 
