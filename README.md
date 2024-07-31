@@ -71,8 +71,15 @@ Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the 
 * [Philipp Sieberg](https://www.uni-due.de/mechatronik/team/sieberg.php), Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
 * Lahbib Zentari, Federal Waterways and Engineering Institute, Germany
 
-## Acknowledgement
-
-The organizers thank the Federal Waterway Engineering and Research Institute (Germany) for the support. 
-
 [^1]: [contact person](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)
+
+<br />
+<br />
+<p float="left">
+  <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/logo_claim_72dpi_rgb_200.jpg" alt="UDE" float="left" height="75"/> 
+  <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/BAW_blue.png" alt="BAW" float="left" height="75"/> 
+  <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" float="left" height="75"/> 
+  <img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/schotte-automotive-logo-red.svg" alt="SCHOTTE" float="left" height="75"/> 
+</p>
+
+
