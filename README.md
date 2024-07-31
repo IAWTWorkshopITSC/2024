@@ -18,9 +18,7 @@ A detailed schedule of the workshop will be published shortly.
 
 ### [Nicola Forti](https://nicolaforti.com/)
 
-<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Nicola_Forti_photo_site5_v2_squared_827.jpg" alt="Forti" float="left" width="140"/> 
-
-Nicola holds a Ph.D. in Information Engineering and is currently an Assistant Professor at the University of Florence, Italy. His research interests span control theory, state estimation, sensor networks, data fusion, statistical signal processing, artificial intelligence, and data-driven modelling, with a focus on applications in cyber-physical systems, large-scale systems, and autonomous technologies. He has held prestigious research positions such as Visiting Scholar at Carnegie Mellon University and Researcher at the NATO Science & Technology Organisation - Centre for Maritime Research and Experimentation. His research addresses critical aspects of maritime surveillance and autonomous shipping, including maritime situational awareness, anomaly detection and navigation. His publication record reflects his commitment to using cutting-edge technologies to enhance maritime safety, security and sustainability. 
+<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Nicola_Forti_photo_site5_v2_squared_827.jpg" alt="Forti" align="left" width="140"/> Nicola holds a Ph.D. in Information Engineering and is currently an Assistant Professor at the University of Florence, Italy. His research interests span control theory, state estimation, sensor networks, data fusion, statistical signal processing, artificial intelligence, and data-driven modelling, with a focus on applications in cyber-physical systems, large-scale systems, and autonomous technologies. He has held prestigious research positions such as Visiting Scholar at Carnegie Mellon University and Researcher at the NATO Science & Technology Organisation - Centre for Maritime Research and Experimentation. His research addresses critical aspects of maritime surveillance and autonomous shipping, including maritime situational awareness, anomaly detection and navigation. His publication record reflects his commitment to using cutting-edge technologies to enhance maritime safety, security and sustainability. 
 
 _Title of talk: TBC_
 
@@ -37,9 +35,7 @@ _Title of talk: TBC_
 
 ### [Hanna Krasowski](https://hanna.krasowski.io/)
 
-<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Hanna_Krasowski2024_small_cut.jpg" alt="Krasowski" float="left" width="140"/> 
-
-Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Systems Group at the Technical University of Munich, Germany. Starting in June, she will join the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, as a postdoctoral researcher. Her work combines the flexibility of reinforcement learning with the reliable guarantees of formal methods. In her research, she also addresses the challenges of compliance with marine traffic rules and the integration of safety measures in autonomous shipping technologies. Hanna conducts experiments on various motion planning scenarios, including those involving marine vessels. She is the principal developer of the CommonOcean Benchmarking Software, which provides researchers with tools for evaluating and comparing their maritime motion planners. Despite being early in her career, she has supervised several theses and authored multiple publications on topics such as safe reinforcement learning, motion planning, and formal methods for autonomous vessels. 
+<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/Hanna_Krasowski2024_small_cut.jpg" alt="Krasowski" align="left" width="140"/> Hanna is in the final stages of completing her Ph.D. at the Cyber-Physical Systems Group at the Technical University of Munich, Germany. Starting in June, she will join the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, as a postdoctoral researcher. Her work combines the flexibility of reinforcement learning with the reliable guarantees of formal methods. In her research, she also addresses the challenges of compliance with marine traffic rules and the integration of safety measures in autonomous shipping technologies. Hanna conducts experiments on various motion planning scenarios, including those involving marine vessels. She is the principal developer of the CommonOcean Benchmarking Software, which provides researchers with tools for evaluating and comparing their maritime motion planners. Despite being early in her career, she has supervised several theses and authored multiple publications on topics such as safe reinforcement learning, motion planning, and formal methods for autonomous vessels. 
 
 _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea_
 
@@ -51,7 +47,7 @@ _Title of talk: TBC_
 
 ### Lahbib Zentari (keynote)
 
-<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/zentari_lahbib.jpg" alt="Zentari" float="left" width="140"/> 
+<img src="https://github.com/IAWTWorkshopITSC/2024/blob/main/zentari_lahbib.jpg" alt="Zentari" align="left" width="140"/> 
 
 Lahbib is currently a researcher in the Shipping Department of BAW. He holds a master's degree in Naval Architecture and Ocean Engineering from the Bremen University of Applied Sciences in Germany and a Ph.D. in Computational Fluid Dynamics from the UDE. His main areas of research are experimental and computational fluid dynamics applied to manoeuvring problems in extremely confined waters. In this context, he is responsible for the development of manoeuvring simulation tools, which are widely used in nautical studies at BAW. Furthermore, his research has found new applications in the development of simulation environments for autonomous vessels. He has published several papers in the field of extreme shallow water manoeuvring.
 
