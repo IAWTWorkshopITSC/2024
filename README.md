@@ -51,7 +51,7 @@ _Title of talk: Guidance, Navigation and safety-aware control of river ferries_
 
 Lahbib is currently a researcher in the Shipping Department of BAW. He holds a master's degree in Naval Architecture and Ocean Engineering from the Bremen University of Applied Sciences in Germany and a Ph.D. in Computational Fluid Dynamics from the UDE. His main areas of research are experimental and computational fluid dynamics applied to manoeuvring problems in extremely confined waters. In this context, he is responsible for the development of manoeuvring simulation tools, which are widely used in nautical studies at BAW. Furthermore, his research has found new applications in the development of simulation environments for autonomous vessels. He has published several papers in the field of extreme shallow water manoeuvring.
 
-_Title of talk: AI application for a virtual test environment on an inland ship handling simulator_
+_Title of talk: Exploring the potential of AI tools for assessing navigational safety on German inland waterways_
 
 
 ## Expected participation
