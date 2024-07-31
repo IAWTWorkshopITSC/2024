@@ -43,7 +43,7 @@ _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ens
 
 Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His research in the field of shipping focuses on developing advanced control methodologies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the automation of inland vessels and ferries. These projects address issues such as robust navigation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in maritime transport. 
 
-_Title of talk: TBC_
+_Title of talk: Guidance, Navigation and safety-aware control of river ferries_
 
 ### Lahbib Zentari (keynote)
 
