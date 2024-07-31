@@ -47,7 +47,7 @@ _Title of talk: TBC_
 
 ### Lahbib Zentari (keynote)
 
-<img src="zentari_lahbib.jpg" alt="Zentari" align="left" width="140"/> 
+<img src="zentari_lahbib.jpg" alt="Zentari" align="left" width="140" style="vertical-align:middle;margin:0px 10px 0px 0px" /> 
 
 Lahbib is currently a researcher in the Shipping Department of BAW. He holds a master's degree in Naval Architecture and Ocean Engineering from the Bremen University of Applied Sciences in Germany and a Ph.D. in Computational Fluid Dynamics from the UDE. His main areas of research are experimental and computational fluid dynamics applied to manoeuvring problems in extremely confined waters. In this context, he is responsible for the development of manoeuvring simulation tools, which are widely used in nautical studies at BAW. Furthermore, his research has found new applications in the development of simulation environments for autonomous vessels. He has published several papers in the field of extreme shallow water manoeuvring.
 
