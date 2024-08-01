@@ -73,10 +73,18 @@ Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the 
 <br />
 <br />
 <p float="left">
-  <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" float="left" height="60"/> 
-  <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" float="left" height="60"/> 
-  <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" float="left" height="75"/> 
-  <img src="BAW_kurz_blau_RGB.png" alt="BAW" float="left" height="75"/> 
+  <a href="https://www.uni-due.de/en/index.php" target="_blank">
+     <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" float="left" height="60"/> 
+  </a>
+  <a href="https://www.dst-org.de/en/">
+    <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" float="left" height="60"/> 
+  </a>
+  <a href="https://www.schotteautomotive.com/">
+    <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" float="left" height="75"/> 
+  </a>
+  <a href="https://www.baw.de/en/home/home.html">
+    <img src="BAW_kurz_blau_RGB.png" alt="BAW" float="left" height="75"/> 
+  </a>
 </p>
 
 
