@@ -6,7 +6,7 @@ The **3rd Workshop on Intelligent and Automated Waterway Transportation**, which
 
 ## Outline
 
-The objective of workshop is the presentation and discussion of the latest advances in waterborne intelligent and automated systems. The workshop is an important platform within the ITS community, focusing on key issues in the development of autonomous vessels, such as advanced assistance systems, modelling and simulation, digital test field waterway, navigation, control concepts and automation of cargo handling. By focusing on these areas, the workshop aims to drive innovation, improve efficiency and enhance safety in waterborne transport, thus making a significant impact in the field of ITS. Renowned experts in the field will present their latest research and developments during the event, providing participants with valuable insights and updates on the latest breakthroughs.
+The objective of the workshop is the presentation and discussion of the latest advances in waterborne intelligent and automated systems. The workshop is an important platform within the ITS community, focusing on key issues in the development of autonomous vessels, such as advanced assistance systems, modelling and simulation, digital test field waterway, navigation, control concepts and automation of cargo handling. By focusing on these areas, the workshop aims to drive innovation, improve efficiency and enhance safety in waterborne transport, thus making a significant impact in the field of ITS. Renowned experts in the field will present their latest research and developments during the event, providing participants with valuable insights and updates on the latest breakthroughs.
 
 ## Format and schedule
 
