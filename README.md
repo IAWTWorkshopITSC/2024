@@ -2,7 +2,8 @@
 
 ## Aim of the workshop
 
-The **3rd Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 24th, 2024 at the [27th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2024/) in Edmonton, Canada, aims at the promotion of technical and scientific exchange between industry, academia and authorities in the fields of autonomous waterway transportation, smart waterborne intermodal logistics and related subjects. The proposers have invited several experts in the field (see below) for giving a talk about their recent research achievement and innovative projects in these fields. 	
+The **3rd Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 24th, 2024 at the [27th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2024/) in Edmonton, Canada, aims at the promotion of technical and scientific exchange between industry, academia and authorities in the areas of autonomous waterway transportation, smart waterborne intermodal logistics and related topics. 
+Presentations by [invited experts](#Invited-speakers) will provide exciting insights into recent research achievements and innovative projects in these areas. 
 
 ## Outline
 
@@ -10,7 +11,7 @@ The objective of the workshop is the presentation and discussion of the latest a
 
 ## Format and schedule
 
-The workshop will be opened by a keynote speech (30 min) held by Lahbib Zentari, followed by talks of 15-25 min given by the invited experts. If there are accepted papers that fit into the scope of the workshop, their presentations will also be integrated. The workshop will conclude with a panel discussion of 30-45 minutes, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
+The workshop will be opened by a keynote speech (30 min) held by Lahbib Zentari, followed by talks of 15-25 min given by the invited experts. If there are accepted papers that fit within the scope of the workshop, their presentations will also be integrated. The workshop will conclude with a panel discussion of 30-45 minutes, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
 
 A detailed schedule of the workshop will be published shortly. 
 
@@ -58,7 +59,7 @@ _Title of talk: Exploring the potential of AI tools for assessing navigational s
 ## Expected participation
 
 Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the the target audience of this workshop. If you do not belong to this target audience, but are interested in the workshop's subject, do not hesitate to join us! 
-Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the ITSC Workshop Day in order to be able to join. 
+Please make sure to [register](https://ieee-itsc.org/2024/registration/) for the ITSC Workshop Day in order to be able to participate. 
 
 ## Organizers
 
