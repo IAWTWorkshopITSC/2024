@@ -62,11 +62,11 @@ Please make sure to [register](https://ieee-itsc.org/2024/registration/) to the 
 
 ## Organizers
 
-* Jannis Daubner, Federal Waterways and Engineering Institute, Germany
-*	Kathrin Donandt[^1], University of Duisburg-Essen & Federal Waterways and Engineering Institute, Germany
+* Jannis Daubner, Federal Waterways Engineering and Research Institute, Germany
+*	Kathrin Donandt[^1], University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
 * [Frédéric Etienne Kracht](https://www.uni-due.de/mechatronik/team/kracht.php), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
 * [Philipp Sieberg](https://www.uni-due.de/mechatronik/team/sieberg.php), Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
-* Lahbib Zentari, Federal Waterways and Engineering Institute, Germany
+* Lahbib Zentari, Federal Waterways Engineering and Research Institute, Germany
 
 [^1]: [contact person](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)
 
