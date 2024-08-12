@@ -31,9 +31,9 @@ _Title of talk: The Medium Frequency R-Mode Test Bed in Canada_
 
 ### Paul Koch
 
-Paul is a researcher at the Fraunhofer Center for Maritime Logistics and Services (CML), Germany.  His research primarily focuses on enhancing situational awareness and collision avoidance for maritime autonomous surface ships through systems compliant with the Convention on the International Regulations for Preventing Collisions at Sea (COLREGs). He also contributes to developing standards for evaluating and certifying AI-based decision-making systems for autonomous vessels. Through these areas of research, Paul significantly contributes to advancing the capabilities and safety of autonomous maritime systems and the broader adoption of AI technologies in the maritime industry.
+<img src="Foto_Koch.jpg" alt="Koch" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Paul is a researcher at the Fraunhofer Center for Maritime Logistics and Services (CML), Germany.  His research primarily focuses on enhancing situational awareness and collision avoidance for maritime autonomous surface ships through systems compliant with the Convention on the International Regulations for Preventing Collisions at Sea (COLREGs). He also contributes to developing standards for evaluating and certifying AI-based decision-making systems for autonomous vessels. Through these areas of research, Paul significantly contributes to advancing the capabilities and safety of autonomous maritime systems and the broader adoption of AI technologies in the maritime industry.
 
-_Title of talk: TBC_
+_Title of talk: Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships_
 
 ### [Hanna Krasowski](https://hanna.krasowski.io/)
 
@@ -43,7 +43,7 @@ _Title of talk: Provably safe reinforcement learning for autonomous vessels: Ens
 
 ### [Tim Reuscher](https://www.irt.rwth-aachen.de/cms/irt/das-institut/team/mobilitaet-und-navigation/abteilungsleiter/~rxbo/tim-reuscher/?allou=1)
 
-<img src="Foto_Reuscher1.jpg" alt="Krasowski" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His research in the field of shipping focuses on developing advanced control methodologies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the automation of inland vessels and ferries. These projects address issues such as robust navigation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in maritime transport. 
+<img src="Foto_Reuscher1.jpg" alt="Reuscher" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tim is a researcher and head of Mobility and Navigation Solutions at the Institute of Automatic Control at RWTH Aachen University, Germany, specializes in trajectory planning, tracking, vehicle control and multi-sensor fusion-based localization. His research in the field of shipping focuses on developing advanced control methodologies for autonomous vessels and ferries, particularly in challenging environments. Tim has contributed to projects like FernBin and AutoFerry, which aim to enhance the automation of inland vessels and ferries. These projects address issues such as robust navigation, efficient path planning, and obstacle avoidance in confined waterways and coastal environments, aiming to improve safety and operational efficiency in maritime transport. 
 
 _Title of talk: Guidance, Navigation and safety-aware control of river ferries_
 
