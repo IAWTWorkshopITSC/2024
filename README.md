@@ -11,7 +11,7 @@ The objective of the workshop is the presentation and discussion of the latest a
 
 ## Format and schedule
 
-The workshop will be opened by a keynote speech (30 min) held by Lahbib Zentari, followed by talks of 15-25 min given by the invited experts. If there are accepted papers that fit within the scope of the workshop, their presentations will also be integrated. The workshop will conclude with a panel discussion of 30-45 minutes, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
+The workshop will be opened by a keynote speech (30 min) held by Lahbib Zentari, followed by talks of 15-25 min given by the invited experts. If there are accepted papers that fit within the scope of the workshop, their presentations will also be integrated. The workshop will conclude with a panel discussion of 30-45 min, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
 
 A detailed schedule of the workshop will be published shortly. 
 
@@ -65,7 +65,7 @@ Please make sure to [register](https://ieee-itsc.org/2024/registration/) for the
 
 * Jannis Daubner, Federal Waterways Engineering and Research Institute, Germany
 *	Kathrin Donandt[^1], University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
-* [Frédéric Etienne Kracht](https://www.uni-due.de/mechatronik/team/kracht.php), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
+* [Frédéric Etienne Kracht](https://www.linkedin.com/in/frederickracht), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
 * [Philipp Sieberg](https://www.linkedin.com/in/dr-philipp-sieberg-1a21bb199/?originalSubdomain=de), Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
 * Lahbib Zentari, Federal Waterways Engineering and Research Institute, Germany
 
