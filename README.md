@@ -11,8 +11,8 @@ The objective of the workshop is the presentation and discussion of the latest a
 
 ## Workshop schedule
 
-<table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr></thead><tbody>
+<table>
+<tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody>
  <tr><td>13:30-13:40</td><td>Opening</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
  <tr><td>13:40-14:10</td><td>Exploring the potential of AI tools for assessing navigational safety on German inland waterways</td><td>Dr. Lahbib Zentari</td><td>Federal Waterway Engineering and Research Institute, Germany</td><td>Keynote</td></tr>
  <tr><td>14:10-14:35</td><td>Advancing Maritime Intelligent Systems: From Vessel Prediction to Anomaly Detection</td><td>Dr. Nicola Forti</td><td>University of Florence, Italy</td><td>Invited expert's presentation</td></tr>
