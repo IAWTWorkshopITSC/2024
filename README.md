@@ -3,7 +3,7 @@
 ## Aim of the workshop
 
 The **3rd Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 24th, 2024 at the [27th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2024/) in Edmonton, Canada, aims at the promotion of technical and scientific exchange between industry, academia and authorities in the areas of autonomous waterway transportation, smart waterborne intermodal logistics and related topics. 
-Presentations by [invited experts](#Invited-experts) will provide exciting insights into recent research achievements and innovative projects in these areas. 
+Presentations by [invited experts](#invited-experts) will provide exciting insights into recent research achievements and innovative projects in these areas. 
 
 ## Outline
 
