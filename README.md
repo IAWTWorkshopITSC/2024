@@ -9,11 +9,24 @@ Presentations by [invited experts](#Invited-speakers) will provide exciting insi
 
 The objective of the workshop is the presentation and discussion of the latest advances in waterborne intelligent and automated systems. The workshop is an important platform within the ITS community, focusing on key issues in the development of autonomous vessels, such as advanced assistance systems, modelling and simulation, digital test field waterway, navigation, control concepts and automation of cargo handling. By focusing on these areas, the workshop aims to drive innovation, improve efficiency and enhance safety in waterborne transport, thus making a significant impact in the field of ITS. Renowned experts in the field will present their latest research and developments during the event, providing participants with valuable insights and updates on the latest breakthroughs.
 
-## Format and schedule
+## Workshop schedule
 
-The workshop will be opened by a keynote speech (30 min) held by Lahbib Zentari, followed by talks of 15-25 min given by the invited experts. If there are accepted papers that fit within the scope of the workshop, their presentations will also be integrated. The workshop will conclude with a panel discussion of 30-45 min, which will also encourage a more intensive exchange between the speakers and the audience than it is possible during the short Q&A session after each presentation. 
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr></thead><tbody>
+ <tr><td>13:30-13:40</td><td>Opening</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
+ <tr><td>13:40-14:10</td><td>Exploring the potential of AI tools for assessing navigational safety on German inland waterways</td><td>Dr. Lahbib Zentari</td><td>Federal Waterway Engineering and Research Institute, Germany</td><td>Keynote</td></tr>
+ <tr><td>14:10-14:35</td><td>Advancing Maritime Intelligent Systems: From Vessel Prediction to Anomaly Detection</td><td>Dr. Nicola Forti</td><td>University of Florence, Italy</td><td>Invited expert's presentation</td></tr>
+ <tr><td>14:35-15:00</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
+ <tr><td>15:00-15:15</td><td align="center" colspan="4">Coffee Break</td></tr>
+ <tr><td>15:15-15:40</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Dr. Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
+ <tr><td>15:40-16:05</td><td>Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships</td><td>Paul Koch</td><td>Fraunhofer Center for Maritime Logistics and Services, Germany</td><td>Invited expert's presentation</td></tr>
+ <tr><td>16:05-16:30</td><td>Guidance, Navigation and safety-aware control of river ferries</td><td>Dr. Tim Reuscher</td><td>RWTH Aachen University, Germany</td><td>Invited expert's presentation</td></tr>
+ <tr><td>16:30-17:20</td><td align="center" colspan="4">Discussion</td></tr>
+ <tr><td>17:20-17:30</td><td>Closing</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
+</tbody></table>
 
-A detailed schedule of the workshop will be published shortly. 
+Please note: This schedule is tentative and subject to change. 
+
 
 ## Invited speakers
 
