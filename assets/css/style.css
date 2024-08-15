@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 .table td, .table th {
-    font-size: 10px;
+    font-size: 5px;
 }
 }
