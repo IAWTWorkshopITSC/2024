@@ -18,7 +18,7 @@ The objective of the workshop is the presentation and discussion of the latest a
  <tr><td>14:10-14:35</td><td>Advancing Maritime Intelligent Systems: From Vessel Prediction to Anomaly Detection</td><td>Dr. Nicola Forti</td><td>University of Florence, Italy</td><td>Invited expert's presentation</td></tr>
  <tr><td>14:35-15:00</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>15:00-15:15</td><td align="center" colspan="4">Coffee Break</td></tr>
- <tr><td>15:15-15:40</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Dr. Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
+ <tr><td>15:15-15:40</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
  <tr><td>15:40-16:05</td><td>Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships</td><td>Paul Koch</td><td>Fraunhofer Center for Maritime Logistics and Services, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>16:05-16:30</td><td>Guidance, Navigation and safety-aware control of river ferries</td><td>Dr. Tim Reuscher</td><td>RWTH Aachen University, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>16:30-17:20</td><td align="center" colspan="4">Discussion</td></tr>
