@@ -16,7 +16,7 @@ The objective of the workshop is the presentation and discussion of the latest a
  <tr><td>13:30-13:40</td><td>Opening</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
  <tr><td>13:40-14:10</td><td>Exploring the potential of AI tools for assessing navigational safety on German inland waterways</td><td>Dr. Lahbib Zentari</td><td>Federal Waterway Engineering and Research Institute, Germany</td><td>Keynote</td></tr>
  <tr><td>14:10-14:35</td><td>Advancing Maritime Intelligent Systems: From Vessel Prediction to Anomaly Detection</td><td>Dr. Nicola Forti</td><td>University of Florence, Italy</td><td>Invited expert's presentation</td></tr>
- <tr><td>14:35-15:00</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
+ <tr><td>14:35-15:00</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Dr. Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>15:00-15:15</td><td align="center" colspan="4">Coffee Break</td></tr>
  <tr><td>15:15-15:40</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
  <tr><td>15:40-16:05</td><td>Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships</td><td>Paul Koch</td><td>Fraunhofer Center for Maritime Logistics and Services, Germany</td><td>Invited expert's presentation</td></tr>
