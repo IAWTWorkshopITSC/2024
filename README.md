@@ -16,10 +16,10 @@ The objective of the workshop is the presentation and discussion of the latest a
  <tr><td>13:30-13:40</td><td>Opening</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
  <tr><td>13:40-14:15</td><td>Exploring the potential of AI tools for assessing navigational safety on German inland waterways</td><td>Dr. Lahbib Zentari</td><td>Federal Waterway Engineering and Research Institute, Germany</td><td>Keynote</td></tr>
  <tr><td>14:15-14:40</td><td>Advancing Maritime Intelligent Systems: From Vessel Prediction to Anomaly Detection</td><td>Dr. Nicola Forti</td><td>University of Florence, Italy</td><td>Invited expert's presentation</td></tr>
- <tr><td>14:40-15:05</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Dr. Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
- <tr><td>15:05-15:30</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
+ <tr><td>14:40-15:05</td><td>Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships</td><td>Paul Koch</td><td>Fraunhofer Center for Maritime Logistics and Services, Germany</td><td>Invited expert's presentation</td></tr>
+<tr><td>15:05-15:30</td><td>Provably safe reinforcement learning for autonomous vessels: Ensuring traffic rule compliance on the open sea</td><td>Hanna Krasowski </td><td>University of California, Berkeley, USA</td><td>Invited expert's presentation</td></tr>
  <tr><td>15:30-16:00</td><td align="center" colspan="4">Coffee Break</td></tr>
- <tr><td>16:00-16:25</td><td>Navigating Complexity: A Rule-Based Approach to Ensuring COLREG Compliance in Autonomous Surface Ships</td><td>Paul Koch</td><td>Fraunhofer Center for Maritime Logistics and Services, Germany</td><td>Invited expert's presentation</td></tr>
+ <tr><td>16:00-16:25</td><td>The Medium Frequency R-Mode Test Bed in Canada</td><td>Dr. Lars Grundhöfer</td><td>German Aerospace Center, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>16:25-16:50</td><td>Guidance, Navigation and safety-aware control of river ferries</td><td>Dr. Tim Reuscher</td><td>RWTH Aachen University, Germany</td><td>Invited expert's presentation</td></tr>
  <tr><td>16:50-17:25</td><td align="center" colspan="4">Discussion</td></tr>
  <tr><td>17:25-17:30</td><td>Closing</td><td>Kathrin Donandt</td><td>University of Duisburg-Essen, Germany</td><td>Organization</td></tr>
